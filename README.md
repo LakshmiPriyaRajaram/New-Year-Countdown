@@ -42,7 +42,7 @@ This project is licensed under the **MIT License**.
 
 ## 🌐 Demo
 
-You can check out a live version of the project **[here](https://lakshmipriyarajaram.github.io/NewYearCountdown/)** *(Replace with the actual link if deployed).*
+You can check out a live version of the project **[here](https://lakshmipriyarajaram.github.io/New-Year-Countdown/)** 
 
 ---
 
